@@ -1,7 +1,7 @@
 const products = [
 	{
 		name: 'Women Floral Print Lounge T-Shirt',
-		image: 'images/female_img_3.jpg',
+		image: 'https://raw.githubusercontent.com/Shaikh-Mohd-Ajmal/AjmalStoreServer/main/backend/data/images/female_img_3.jpg',
 		description:
 			'Etiam cursus condimentum vulputate. Nulla nisi orci, vulputate at dolor et, malesuada ultrices nisi. Ut varius ex ut purus porttitor, a facilisis orci condimentum. Nullam in elit et sapien ornare pellentesque at ac lorem.',
 		brand: 'Burberry',
